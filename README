@@ -1,0 +1,1 @@
+This started simply as a test code for each servo and leg as I built it, until I ended up doing all movements with tables of static angles. I plan to refactor everything to use IK someday.
